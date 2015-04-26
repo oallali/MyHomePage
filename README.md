@@ -1,2 +1,2 @@
 # MyHomePage
-My first Home page
+This is my first Home page :)
